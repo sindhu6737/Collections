@@ -43,8 +43,8 @@ public class queueDemo {
 		que.add(10);
 		que.add(20);
 		que.offer("sindhu");
-		System.out.println(que);
-		System.out.println(que.peek());
+		//System.out.println(que);
+		//System.out.println(que.peek());
 		System.out.println(que.poll());
 		System.out.println(que);
 
